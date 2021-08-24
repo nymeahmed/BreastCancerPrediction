@@ -1,4 +1,4 @@
-# BreastCancerPrediction using Logistic Regression, Decision Tree, Random Forest, Support Vector Machine, K-Nearest Neighbors.
+# BreastCancerPrediction using Logistic Regression, Decision Tree, Random Forest, Support Vector Machine and K-Nearest Neighbors
 
 Tool used: Google Colab
 
